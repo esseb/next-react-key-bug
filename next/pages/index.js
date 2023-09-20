@@ -31,6 +31,8 @@ export default function Home() {
       {categories.map((category, categoryIndex) => {
         return (
           <button
+            // The warning disappears if the key is before the spread operator
+            // key={categoryIndex}
             {...{
               className: 'example',
             }}
