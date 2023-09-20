@@ -13,7 +13,7 @@ const categories = [
   }
 ]
 
-export default function Home() {
+export default function App() {
   return (
     <div>
       <h1>Steps to reproduce</h1>
