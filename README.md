@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser and read t
 This warning appears in the devtools' console:
 
 ```
-client.js:1 Warning: Each child in a list should have a unique "key" prop. See https://reactjs.org/link/warning-keys for more information.
+Warning: Each child in a list should have a unique "key" prop. See https://reactjs.org/link/warning-keys for more information.
 ```
 
 # React (using Create React App)

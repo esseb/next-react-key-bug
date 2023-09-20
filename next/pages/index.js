@@ -26,7 +26,7 @@ export default function Home() {
       <p>No warnings</p>
 
       <h1>Actual result</h1>
-      <p>client.js:1 Warning: Each child in a list should have a unique "key" prop. See https://reactjs.org/link/warning-keys for more information.</p>
+      <p>Warning: Each child in a list should have a unique "key" prop. See https://reactjs.org/link/warning-keys for more information.</p>
 
       {categories.map((category, categoryIndex) => {
         return (
